@@ -8,6 +8,7 @@ public class JavaMiniAssignment2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaMiniAssignment2Application.class, args);
+		System.out.println("SpringBoot Application!");
 	}
 
 }
