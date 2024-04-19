@@ -1,3 +1,3 @@
 # Springboot-BuildTest
 
-Spring Boot application with SOme endpoints and test cases.
+Spring Boot application with Some endpoints and test cases.
